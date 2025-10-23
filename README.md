@@ -5,4 +5,7 @@
 - เข้าใจหลักการของ Structured Programming เช่น การใช้ฟังก์ชัน การควบคุมการทำงาน (if, loop) และการจัดการข้อมูล
 - พัฒนาโปรแกรมขนาดเล็กที่สามารถทำงานได้จริง
 
+  
 
+
+[mini c++.pdf](https://github.com/user-attachments/files/23094991/mini.c%2B%2B.pdf)
